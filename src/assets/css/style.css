@@ -422,6 +422,10 @@ body {
 }
 
 @media screen and (max-width: 450px) {
+    .servises {
+        padding-bottom: 50px;
+    }
+
     .servises__card {
         flex-direction: column;
     }
